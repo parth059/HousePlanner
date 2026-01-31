@@ -1,0 +1,1 @@
+public record House(String city, double price, int bedrooms, String type, double size, String imageUrl) {}
